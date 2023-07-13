@@ -24,14 +24,21 @@
 # message = f"Hello {name}"
 # print(message)
 
-name = input("Enter your name: ")
-print(name)
+# name = input("Enter your name: ")
+# print(name)
 
-family = input("enter your family: ")
-print(family)
+# family = input("enter your family: ")
+# print(family)
 
 
 # TODO برنامه ای بنویسید که نام و نام خانوادگی دانش آموزی را از وروید دریافت نماید
 # و پیغامی شبیه زیر نمایش دهد
 
 # amirali asadi is a python student
+
+
+name = input("enter your name: ")
+family = input("enter your family: ")
+message = f"{name} {family} is a python student"
+
+print(message)
