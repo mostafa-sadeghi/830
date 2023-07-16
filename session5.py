@@ -19,3 +19,7 @@ myturtle.forward(100)
 myturtle.left(90)
 
 turtle.done()
+
+# کشیدن مثلث
+# کشیدن پنج ضلعی
+# کشیدن شش ضلعی
