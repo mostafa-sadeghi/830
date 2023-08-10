@@ -8,6 +8,17 @@
 """
 
 
+# even_numbers = []
+# total = 0
+# for number in range(100, 201, 2):
+#     print(number)
+#     even_numbers.append(number)
+#     total += number
+
+# print(f"sum of even numbers:{sum(even_numbers)}")
+# print(f"sum of even numbers:{total}")
+
+
 # TODO 
 """
 با کمک حلقه فور برنامه ای بنویسید که پنج عدد از ورودی دریافت نماید و مجموع آن ها را محاسبه و نمایش دهد
@@ -17,7 +28,24 @@
 %
 """
 
-names = ["ali", "mina","armin","roze"]
+# total = 0
+# for i in range(5):
+#     new_number = int(input("enter a number: "))
+#     total += new_number
 
-for name in names:
-    print(name.upper())
+# print("total is:", total)
+
+# total = 0
+# for i in range(5):
+#     new_number = int(input("enter a number: "))
+#     if new_number % 2 == 0:
+#         total += new_number
+
+# print("total is:", total)
+
+
+
+# names = ["ali", "mina","armin","roze"]
+
+# for name in names:
+#     print(name.upper())
