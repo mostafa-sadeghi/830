@@ -1,0 +1,2 @@
+hello amir welcome to js class
+hello reza welcome to python class
